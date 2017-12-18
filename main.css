@@ -1,0 +1,15 @@
+* {
+	background: #E7FFBF;
+}
+
+.content {
+	position: relative;
+}
+
+.navigate {
+	height: 40px;
+	position: 40px;
+	width: auto;
+	background: #BDD98D;
+	text-align: center;
+}
